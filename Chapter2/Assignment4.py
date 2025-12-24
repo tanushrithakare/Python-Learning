@@ -1,0 +1,6 @@
+Num1=int(input("Enter 1st Num:"))
+Num2=int(input("Enter 2nd Num:"))
+print("sum:",Num1+Num2)
+print("diff:",Num1-Num2)
+print("Product:",Num1*Num2)
+print(Num1>Num2)
