@@ -1,0 +1,5 @@
+Name=str(input("Enter Your name:"))
+print("User name is :",Name)
+print("1st charactor:",Name[0])
+print("Last char:",Name[-1])
+print("Lenght:", (len(Name)))
