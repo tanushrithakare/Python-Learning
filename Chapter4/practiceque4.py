@@ -1,0 +1,5 @@
+tup1=(1,2,3,4)
+print("Total No. of elements :",len(tup1))
+print("Maximum Value:",max(tup1))
+print("Minimum Value :",min(tup1))
+print("index of 2:",tup1.index(1))
