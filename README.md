@@ -9,3 +9,4 @@ This repository contains my Python practice programs while learning fundamentals
 - Mini programs (calculator, temperature converter)
 
 I update this repository regularly as I learn.
+
